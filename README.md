@@ -2,7 +2,7 @@
 
 
 
-# Minimal certificates:
+## Minimal certificates:
 
 - Completed boot.dev git 1 course:
 [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ae97c0fb-151e-4b56-9bd8-2411486d4aca.jpeg?v=1793212791)](https://www.boot.dev/certificates/ae97c0fb-151e-4b56-9bd8-2411486d4aca)
